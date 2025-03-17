@@ -7,11 +7,6 @@ Jose de Jesus Loredo Melendez
 # Evaluación Ordinaria 
 <br>
 
-## Objetivo general de la unidad
-El estudiante manipulará sensores y actuadores conectados a hardware abierto para procesar y almacenar datos, desarrollando habilidades teóricas, prácticas y de integración de sistemas IoT.
-<br>
-<br>
-
 # Ejercicios de clase
 ## KY-001  Sensor de Temperatura
 https://app.cirkitdesigner.com/project/275d1774-3920-47a6-ae1e-b18f39e9c0d2
@@ -297,3 +292,17 @@ https://drive.google.com/drive/folders/1KAbpiqenT5lJtWc8aO3Bf-rln-2qagLP?usp=sha
 # Resultados Evaluación Teórica
 
 <img src="https://github.com/user-attachments/assets/41426c58-1688-48b2-9753-56b31d030727" wigth=100/>
+
+
+# Resultado Examen Quizziz
+
+<img src="https://github.com/user-attachments/assets/89fd3ffb-3b1e-4529-9ee4-683ebdd85bc4" wigth=100/>
+
+
+# Soldadura de Leds
+
+<img src="https://github.com/user-attachments/assets/f3f8215e-f216-412d-b026-a13b061059d4" wigth=100/>
+
+Video de Funcionalidad
+
+https://drive.google.com/drive/folders/1cq3llxo15H0k4xzsqceHdl02Jt2l9Jmz?usp=sharing
